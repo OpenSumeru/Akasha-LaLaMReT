@@ -70,9 +70,7 @@ Each test case is scored based on the following criteria:
 5. **Explainability**: Can the model provide reasoning for its answer?
 
 **Scoring System:**
-- ✅ **3 points**: Fully correct answer with proper reasoning.
-- ⚠️ **2 points**: Partially correct or requires minor adjustments.
-- ❌ **0 points**: Incorrect or completely irrelevant answer.
+Developing
 
 ---
 
