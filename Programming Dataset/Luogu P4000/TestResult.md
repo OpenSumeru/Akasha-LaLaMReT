@@ -31,5 +31,12 @@
 
 ### With Full Mark Code (4)
 
+1. ChatGPT o1
+    - Thinking Time: 57s
+    - [Answer](./Part4/ChatGPT_o1.md)
+    - [CoT](./Part4/ChatGPT_o1_CoT.md)
+    - [Code](./Part4/CharGPT_o1_Code.md)
+    - Score: 100 (27AC 0TLE 0WA)
+
 ### With Full Mark Idea (5)
 
